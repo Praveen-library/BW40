@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(185, 190, 159);
+}
+.header{
+    height: 100px;
+    background-color: rgb(39, 46, 54);
+    display: flex;
+    justify-content: center;   
+}
+i{
+    color: rgb(255, 255, 255);
+    margin: 14px 0px;
+    margin-left: -27cm;
+}
+.topic{
+    color: white;
+    padding-top: 30px;
+}
+.layout1{
+    background-color:rgb(44, 42, 42);
+    height: 25cm;
+    margin: 100px;
+    border-radius: 20px;
+    
+}
+#search{
+    color: white;
+    height:50px;
+    width: 20cm;
+    margin-top: 100px;
+     margin-left: 220px;
+    background-color:rgb(44, 42, 42);
+    border-radius: 10px;
+}
+.boxes{
+    height: 200px;
+    background-color:rgb(44, 42, 42);
+    width: 7cm;
+    margin-top: 150px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+#message{
+    height: 280px;
+    width: 33cm;
+    background-color:rgb(44, 42, 42);
+    margin-top: 264px;
+    margin-left: 64px;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,117 @@
+.box{
+    height: 70cm;
+    width: 20cm;
+    background-color: rgb(49, 50, 62);
+    margin-top: 100px;
+    margin-left: 720px;
+}
+#logo{
+    width: 120px;
+    padding-top: 60px;
+    margin-left: 180px;
+}
+#topic{
+    padding-top: 46px;
+    margin-left: 40px;
+}
+#subtopic{
+    margin-left: 40px;
+}
+#twologo{
+    padding-top: 2px;
+    margin-left: 130px;
+}
+#onelogo{
+    width: 130px;
+    margin-top: -46px;
+    margin-left: 180px;
+
+}
+.box1 , .box5, .box9{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: -15px;
+    height: 350px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+.box2,.box6{
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-left: -15px;
+    height: 350px;
+    background-color: skyblue;
+    text-align: center;
+    padding-top: 20px;
+}
+#circle{
+    margin-top: -12px;
+    margin-left: -140px;
+}
+#circlenum{
+    margin-top: -52px;
+}
+.box3{
+    height: 250px;
+    background-color: rgb(221, 89, 89);
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+#leftcontent{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#paragraph{
+    margin-top: -20px;
+    padding-left: 30px;   
+}
+.link{
+    border-bottom: 1px;
+    border-color: white;
+}
+#rightimg{
+    padding-top: 40px;
+}
+.box4{
+    background-color: skyblue;
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#factors{
+    padding-left: 20px;
+}
+.col-content{
+    padding-left: 40px;
+    padding-top: 14px;
+}
+.box7, .box8{
+    background-color: skyblue;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+.col-md-9{
+    padding-top: 30px;
+    padding-left: 50px;
+    
+}
+.col-md-3{
+    padding-top: 50px;
+   
+}
+.box10{
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-left: -15px;
+    height: 350px;
+    text-align: center;
+    padding-top: 44px;
+}
